@@ -1,2 +1,6 @@
 [object]
 	state = initial
+[map "4c996f33-0d11-3faf-a103-8a591adb01a1"]
+	object = 27ed74b68dfb9c29e727e29897ac2533bddf3d6c
+	path = module
+	type = expand module

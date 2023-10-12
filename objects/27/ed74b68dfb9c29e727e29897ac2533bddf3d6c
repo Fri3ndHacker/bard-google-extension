@@ -1,0 +1,12 @@
+[module "aeed691b-04a2-3155-a183-6fc01c44ba76"]
+	conflict = request-pull
+	path = module
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/circleci-project-setup sync refs/heads/main
+	url = agnostic://gh/680659568
+[map "993d227a-2ab1-30c9-9047-eb29f0590d29"]
+	object = d78634ee6607c41b2e927fa05d39a7981bb4e342
+	path = module
+	stage = sync
+	type = extract module
